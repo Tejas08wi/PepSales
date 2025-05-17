@@ -84,7 +84,7 @@ A **MERN-based backend system** to send notifications (Email, SMS, In-app) to us
 ```json
 {
   "user": "<USER_ID>",
-  "type": "email", // or "sms" or "in-app"
+  "type": "email", "sms" or "in-app"
   "content": "Hello!"
 }
 ```
